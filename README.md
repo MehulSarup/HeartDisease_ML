@@ -11,3 +11,7 @@ If it's possible to predict that a patient has heart disease based on the factor
 
 ## Results:
 A KNN Classifer model has been trained to predict heart disease in a patient with an accuracy of 99%
+
+
+## Visualization
+https://public.tableau.com/views/HeartDiseaseAnalysis_16729568182450/HeartDisease_1?:language=en-US&:display_count=n&:origin=viz_share_link
